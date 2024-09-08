@@ -5,7 +5,7 @@ Download the file here: https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKG
 
 <img width="345" alt="Enter the path to the audio file" src="https://github.com/user-attachments/assets/3da0767d-0849-41c0-baea-6797ff9cf2f1">
 
-Requirments: 
+# Requirments: 
 - Python 3.5 or above
 - librosa
 - soundfile
